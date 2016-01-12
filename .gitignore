@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.sln
+*.vcxproj*
+__vm/
+.vs/
+.opensdf
+*.sdf
+Debug/
+Visual Micro/
+*/stino.settings
+build-uno
